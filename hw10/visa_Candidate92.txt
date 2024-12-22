@@ -1,0 +1,3 @@
+Name: Candidate92
+Age: 20
+Education Level: 5

@@ -1,0 +1,3 @@
+Name: Candidate32
+Age: 69
+Education Level: 4

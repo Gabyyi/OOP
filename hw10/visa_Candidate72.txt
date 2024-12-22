@@ -1,0 +1,3 @@
+Name: Candidate72
+Age: 18
+Education Level: 5

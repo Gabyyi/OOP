@@ -1,0 +1,4 @@
+Loan ID: 1 Amount: 1000.0 Person: John Marston 12345
+Loan ID: 3 Amount: 1500.0 Person: Bill Williamson 12347
+Loan ID: 4 Amount: 2500.0 Person: Sadie Adler 12348
+Loan ID: 5 Amount: 3000.0 Person: John Smith 12349

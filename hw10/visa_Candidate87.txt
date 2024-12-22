@@ -1,0 +1,3 @@
+Name: Candidate87
+Age: 34
+Education Level: 5

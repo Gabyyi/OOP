@@ -1,0 +1,3 @@
+Name: Candidate52
+Age: 26
+Education Level: 4

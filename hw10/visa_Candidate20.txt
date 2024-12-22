@@ -1,0 +1,3 @@
+Name: Candidate20
+Age: 46
+Education Level: 5
