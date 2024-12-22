@@ -1,0 +1,6 @@
+Client Name: John
+Birthday: 23/08/2004
+CNP: 12345
+Accounts: 
+IBAN: DEBIT, Balance: 0
+IBAN: CREDIT, Balance: 0, Max Credit: 10000

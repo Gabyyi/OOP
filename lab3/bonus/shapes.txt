@@ -1,0 +1,3 @@
+Square area: 25
+Circle area: 28
+Rectangle area: 24

@@ -1,0 +1,4 @@
+Name: Math Type: Foundamental Stream: English CreditPoints: 5
+Name: Math Type: Foundamental Stream: English CreditPoints: 5
+Name: Physics Type: Specialization Stream: French CreditPoints: 6
+Name: Physics Type: Specialization Stream: French CreditPoints: 6

@@ -1,0 +1,7 @@
+Rank: Ace Suit: Clubs
+Rank: Seven Suit: Diamonds
+Rank: Seven Suit: Diamonds
+Rank: King Suit: Diamonds
+Rank: Queen Suit: Hearts
+Rank: Seven Suit: Spades
+Rank: Knight Suit: Spades
