@@ -1,0 +1,3 @@
+Name: Candidate70
+Age: 31
+Education Level: 5

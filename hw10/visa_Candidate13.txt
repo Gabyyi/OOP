@@ -1,3 +1,3 @@
 Name: Candidate13
-Age: 40
-Education Level: 4
+Age: 21
+Education Level: 5
